@@ -17,7 +17,7 @@ locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 title: "Shuohan Li"
 title_separator: "-"
-subtitle: "M.Eng. in Systems Engineering @ Cornell"
+subtitle: "M.S. in Systems Engineering @ Cornell"
 name: "Shuohan Li"
 description: "PV Forecasting | Transformer | Machine Learning"
 url: "https://shuohan2992.github.io"
@@ -111,10 +111,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "SHUOHAN LI"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "I am a Master of Science student in the Systems Engineering program at Cornell University. My research focuses on photovoltaic (PV) power forecasting.
+Prior to my graduate studies, I completed my undergraduate degree in Mathematics, where I developed a strong foundation in quantitative analysis, statistics, and optimization. I am especially passionate about applying data-driven approaches to real-world energy problems.
+Outside of academics, I enjoy hiking and skiing—activities that help me recharge and appreciate the beauty of nature. Whether climbing up trails or cruising down slopes, I always find inspiration outdoors."
+  location         : "Itahca, NY"
   email            :
   links:
     - label: "Email"
