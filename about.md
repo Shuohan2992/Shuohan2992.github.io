@@ -20,7 +20,7 @@ My research focuses on **solar power forecasting**, particularly using Transform
 
 ### 📚 Education
 - M.Eng., Systems Engineering, Cornell University
-- B.S., Electrical Engineering, [Your Undergrad School]
+- B.S., Applied Mathematics
 
 ---
 
