@@ -20,10 +20,10 @@ My research focuses on **solar power forecasting**, particularly using Transform
 
 ### 📚 Education
 - M.Eng., Systems Engineering, Cornell University
-- B.S., Applied Mathematics
+- B.S., Applied Mathematics, Tianjin University
 
 ---
 
 ### 📫 Contact
 - GitHub: [shuohan2992](https://github.com/shuohan2992)
-- Email: shuohan@example.com
+- Email: sl2992@cornell.edu
