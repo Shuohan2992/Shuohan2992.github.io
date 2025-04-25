@@ -1,0 +1,9 @@
+shuohan:
+  name        : "Shuohan Li"
+  avatar      : "/assets/images/bio-photo.jpg"  
+  bio         : "M.Eng. in Systems Engineering @ Cornell. Focused on PV forecasting, ML, and uncertainty modeling."
+  location    : "Ithaca, NY"
+  uri         : "https://shuohan2992.github.io"
+  email       : "shuohan@example.com"
+  github      : "shuohan2992"
+  linkedin    : "shuohan-li"
