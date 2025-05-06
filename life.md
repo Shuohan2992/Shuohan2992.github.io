@@ -6,7 +6,7 @@ permalink: /life/
 
 <div style="padding: 0 40px;">
 
-## ✨ Exploring Life Beyond Code
+✨ Exploring Life Beyond Code
 
 Outside of academics, I love traveling and photography. Capturing moments around the world through my lens helps me see the beauty in everyday life. Here are some of my favorite shots:
 
