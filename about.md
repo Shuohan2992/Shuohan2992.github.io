@@ -5,7 +5,7 @@ permalink: /about/
 author_profile: true
 ---
 
-Hi! I'm **Shuohan Li**, a Master of Engineering student in Systems Engineering at Cornell University.  
+Hi! I'm **Shuohan Li**, a Master of Science student in Systems Engineering at Cornell University.  
 My research focuses on **solar power forecasting**, particularly using Transformer-based models with uncertainty estimation.
 
 ---
